@@ -24,7 +24,7 @@
 * `apt update`
 * `apt install git -y`
 * `git clone https://github.com/Jangid-Shyam/Host-Tool.git`
-* `cd host`
+* `cd Host-Tool`
 
 #### > Run : `bash host.sh`
 
