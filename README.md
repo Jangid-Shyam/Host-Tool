@@ -47,6 +47,6 @@ apt update ; apt install git -y ; git clone https://github.com/Jangid-Shyam/Host
 #### > NGROK (https://ngrok.com)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-Jangid--Shyam-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Github](https://img.shields.io/badge/Github-Jangid--Shyam-green?style=for-the-badge&logo=github)](https://github.com/Jangid-Shyam)
 [![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Jangid.Shyam)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Jangid.Shyam.official)
