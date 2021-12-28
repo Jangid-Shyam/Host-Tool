@@ -7,7 +7,7 @@
 <a href="#"><img title="Host-Tool" src="https://raw.githubusercontent.com/Jangid--Shyam/release-download/master/images/banner/host.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Jangid--Shyam"><img title="Author" src="https://img.shields.io/badge/Author-shyam--jangid-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Jangid--Shyam"><img title="Author" src="https://img.shields.io/badge/Author-Jangid--Shyam-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -48,5 +48,5 @@ apt update ; apt install git -y ; git clone https://github.com/Jangid-Shyam/Host
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-Jangid--Shyam-green?style=for-the-badge&logo=github)](https://github.com/Jangid-Shyam)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Jangid.Shyam)
+[![Instagram](https://img.shields.io/badge/IG-%40tJangid-Shyam-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Jangid.Shyam)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Jangid.Shyam.official)
